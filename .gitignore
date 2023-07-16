@@ -162,3 +162,5 @@ cython_debug/
 
 data/csv
 ethusdt.csv
+
+data
