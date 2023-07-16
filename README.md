@@ -2,7 +2,7 @@
 
 Example of Linear Autoencoder that converts MNIST data set into more readable digits.
 
-Probably this is senseless because the encoder is just a classifier and the decoder remembers every perfect digit that we wanna see eventually but it is interesting to see that behavior anyway
+Probably this is senseless because the encoder is just a classifier and the decoder remembers every perfect digit that eventually we wanna see but it is interesting to see that behavior anyway
 
 Here are examples:
 First row original data, the second result of autoencoder
