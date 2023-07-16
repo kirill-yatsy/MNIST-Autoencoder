@@ -9,4 +9,4 @@ First row original data, the second result of autoencoder
 
 ![Exapmpe output #1](/images/output.png?raw=true "Exapmpe output #1")
 
-![Exapmpe output #2](/images/output.png?raw=true "Exapmpe output #2")
+![Exapmpe output #2](/images/output2.png?raw=true "Exapmpe output #2")
